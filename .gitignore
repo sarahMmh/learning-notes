@@ -4,7 +4,7 @@ npm-debug.log*
 logs/*
 output/*
 dist/*
-*/node_modules/*
+**/node_modules/*
 pcadmins/*
 copy.sh
 release
