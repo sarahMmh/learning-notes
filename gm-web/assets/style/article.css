@@ -1,0 +1,139 @@
+/* 鍐呭椤靛竷灞€ */
+/* 宸︽爮鍙虫爮甯冨眬 */
+.wrapper-content,
+.wrapper-right {
+  float: left;
+  background-color: #ffffff;
+}
+
+.wrapper-content {
+  width: 800px;
+  margin: 0 20px 0 0;
+}
+
+.wrapper-right {
+  width: 480px;
+}
+
+/* 鍐呭椤靛彸鏍忎竴浜涘厓绱� */
+
+.wrapper-right .title h6,
+.wrapper-relate .title h6 {
+  display: inline-block;
+  padding: 0 0 0 20px;
+  background: url(../image/icon_tab.gif) left center no-repeat;
+  font-size: 16px;
+  line-height: 40px;
+}
+
+.wrapper-right .content {
+  padding: 20px 0 0 0;
+}
+
+.wrapper-right .ali-pic li a img {
+  width: 210px;
+  height: 150px;
+}
+
+.wrapper-right .ali-pic .s1 {
+  margin: 0 20px 0 0;
+}
+
+.wrapper-right .wrapper-search .form-inline .form-control {
+  width: 300px;
+  margin: 0 10px 0 0;
+}
+
+.wrapper-title h2 {
+  margin: 0;
+  font-size: 30px;
+  line-height: 50px;
+  font-weight: bold;
+  font-family: '鍗庢枃涓畫', '瀹嬩綋';
+  text-align: center;
+}
+
+.wrapper-title h3 {
+  margin: 10px;
+  font-size: 18px;
+  line-height: 40px;
+  font-family: '寰蒋闆呴粦';
+  text-align: center;
+}
+
+.wrapper-info {
+  border-top: 1px solid #878787;
+  margin: 20px 0;
+  font-size: 14px;
+  text-align: right;
+  line-height: 30px;
+}
+
+.wrapper-info a {
+  margin-left: 10px;
+}
+
+.wrapper-desc {
+  background: #EDF8EF;
+  border: 1px dashed #9FB69E;
+  padding: 20px;
+  margin: 20px 0;
+  font-size: 14px;
+  line-height: 2em;
+  color: #373737;
+  text-indent: 2em;
+}
+
+.wrapper-desc span {
+  color: #9C0204;
+}
+
+.wrapper-qqlive {
+
+}
+
+#wrapper-body {
+  font-family: '鍗庢枃涓畫', '瀹嬩綋';
+  margin: 20px 0;
+  padding: 20px;
+  font-size: 18px;
+  line-height: 40px;
+}
+
+#wrapper-body p,
+#wrapper-body div {
+  font-family: '鍗庢枃涓畫', '瀹嬩綋';
+  font-size: 20px;
+  line-height: 2em;
+  margin-bottom: 20px;
+}
+
+#wrapper-body .viewtable {
+  width: 100%;
+  text-align: center;
+  margin: 0 auto;
+}
+
+#wrapper-body .viewtable table {
+  border-left: 1px solid #555555;
+  border-bottom: 1px solid #555555;
+  text-align: center;
+  margin: 20px 0;
+}
+
+#wrapper-body .viewtable table td {
+  border-right: 1px solid #555555;
+  border-top: 1px solid #555555;
+  text-align: center;
+  font-size: 12px;
+  padding: 3px;
+}
+
+.wrapper-relate table {
+  margin: 20px 0 0 0;
+}
+
+.wrapper-relate td a {
+  font-size: 16px;
+  line-height: 40px;
+}

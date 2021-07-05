@@ -1,0 +1,46 @@
+.ali-spec {
+    margin-top: 20px;
+  }
+  
+  .ali-spec li {
+    padding: 20px;
+  }
+  
+  .ali-spec li:nth-of-type(odd) {
+    background: #f1f1f1;
+  }
+  
+  .ali-spec li:nth-of-type(even) {
+    background: #ebebeb;
+  }
+  
+  .ali-spec li a {
+    display: block;
+  }
+  
+  .ali-spec li a img {
+    float: left;
+    width: 310px;
+    height: 90px;
+  }
+  
+  .ali-spec li a p {
+    float: right;
+    position: relative;
+    width: 390px;
+    height: 90px;
+    margin: 0 0 0 20px;
+    text-align: left;
+    font-size: 18px;
+    line-height: 30px;
+  }
+  
+  .ali-spec li a p span {
+    display: block;
+    text-align: right;
+    height: 30px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    font: 12px/30px Arial, Helvetica, sans-serif;
+  }

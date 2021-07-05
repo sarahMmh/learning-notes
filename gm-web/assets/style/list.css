@@ -1,0 +1,84 @@
+.wrapper-list-txt,
+.wrapper-list-spec,
+.wrapper-list-spec-arc,
+.wrapper-list-search,
+.wrapper-right {
+  float: left;
+  background-color: #ffffff;
+}
+
+.wrapper-list-txt,
+.wrapper-list-spec,
+.wrapper-list-spec-arc {
+  width: 800px;
+  margin: 0 20px 0 0;
+}
+
+.wrapper-list-img,
+.wrapper-list-search {
+  width: 1300px;
+}
+
+.wrapper-right {
+  width: 480px;
+}
+
+.wrapper-right .title h6,
+.wrapper-list-search .title h6 {
+  display: inline-block;
+  padding: 0 0 0 20px;
+  background: url(../image/icon_tab.gif) left center no-repeat;
+  font-size: 16px;
+  line-height: 40px;
+}
+
+.wrapper-right .content {
+  padding: 20px 0 0 0;
+}
+
+.wrapper-right .ali-pic li a img {
+  width: 210px;
+  height: 150px;
+}
+
+.wrapper-right .ali-pic .s1 {
+  margin: 0 20px 0 0;
+}
+
+.wrapper-right .wrapper-search .form-inline .form-control {
+  width: 300px;
+  margin: 0 10px 0 0;
+}
+
+/* 鍒楄〃椤电殑.apager 閫氱敤鏍峰紡 */
+
+.apager {
+  margin: 40px 20px 20px 20px;
+}
+
+.apager li {
+  float: left;
+}
+
+.apager li a,
+.apager li .pageinfo {
+  display: inline-block;
+  height: 40px;
+  line-height: 40px;
+}
+
+.apager li a {
+  border: 1px solid #c0c0c0;
+  border-right: none;
+  padding: 0 10px;
+}
+
+.apager .thisclass a {
+  background: #c53c24;
+  color: #ffffff;
+}
+
+.apager li .pageinfo {
+  border: 1px solid #c0c0c0;
+  padding: 0 10px;
+}

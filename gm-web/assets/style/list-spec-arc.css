@@ -1,0 +1,52 @@
+.spec-img {
+    margin: 20px 0 0 0;
+    text-align: center;
+  }
+  
+  .spec-title h3 {
+    margin: 20px 0;
+    text-align: center;
+    font: bold 24px/50px;
+  }
+  
+  .spec-desc {
+    background: #EDF8EF;
+    border: 1px dashed #9FB69E;
+    padding: 20px;
+    margin: 20px 0;
+    font-size: 14px;
+    line-height: 2em;
+    color: #373737;
+    text-indent: 2em;
+  }
+  
+  .spec-desc span {
+    color: #9C0204;
+  }
+  
+  .spec-note {
+    margin: 20px 0;
+    font-size: 16px;
+    line-height: 40px;
+  }
+  
+  .wrapper-note {}
+  
+  .wrapper-note dl {}
+  
+  .wrapper-note dl dt {
+    line-height: 60px;
+  }
+  
+  .wrapper-note dl dd {}
+  
+  .wrapper-note dl dd ul {}
+  
+  .wrapper-note dl dd ul li {}
+  
+  .wrapper-note dl dd ul li span {
+    margin: 0 10px 0 0;
+    color: rgb(114, 114, 114);
+  }
+  
+  .wrapper-note dl dd ul li a {}

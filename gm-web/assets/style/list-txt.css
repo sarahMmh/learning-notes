@@ -1,0 +1,12 @@
+.wrapper-list-txt .ali {
+    margin: 30px 20px 0 20px;
+  }
+  
+  .wrapper-list-txt .ali li a {
+    float: left;
+  }
+  
+  .wrapper-list-txt .ali li .adate {
+    float: right;
+    line-height: 40px;
+  }
